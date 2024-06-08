@@ -1,0 +1,41 @@
+
+.con{
+background-color:blue;
+border:solid 2px red;
+}
+
+.divhead{
+  height:300px;
+ border:solid 2px white;
+ background-color:red;
+ padding:20px;
+ margin:20px;
+}
+
+.img1{
+height:300px;
+width:1000px;
+}
+
+.divsec{
+   height:300px;
+ border:solid 2px white;
+ background-color:red;
+ padding:20px;
+ margin:20px;
+}
+
+.divsecnew{
+   height:500px;
+ border:solid 2px white;
+ background-color:red;
+ padding:20px;
+ margin:20px;
+}
+
+.divsector{
+ background-color:green;
+ border:double 2px white;
+ padding:3px;
+ 
+}
